@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="boot_6" />
+        <module name="mybatisplus_01" />
+        <module name="boot_5" />
+        <module name="reggie" />
+        <module name="springboot_01" />
+        <module name="boot_4" />
+        <module name="mybatisplus_1" />
+        <module name="boot_2" />
+        <module name="boot_1" />
+        <module name="mybatisplus_2" />
+        <module name="bootlnstall" />
+        <module name="springboot_1" />
+        <module name="mybatisplus3" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="boot_1" target="1.8" />
+      <module name="boot_2" target="1.8" />
+      <module name="boot_4" target="8" />
+      <module name="boot_5" target="1.8" />
+      <module name="boot_6" target="1.8" />
+      <module name="bootlnstall" target="1.8" />
+      <module name="mybatisplus3" target="1.8" />
+      <module name="mybatisplus_01" target="1.8" />
+      <module name="mybatisplus_1" target="17" />
+      <module name="mybatisplus_2" target="8" />
+      <module name="reggie" target="1.8" />
+      <module name="springboot_01" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="boot_1" options="-parameters" />
+      <module name="boot_2" options="-parameters" />
+      <module name="boot_4" options="-parameters" />
+      <module name="boot_5" options="-parameters" />
+      <module name="boot_6" options="-parameters" />
+      <module name="bootlnstall" options="-parameters" />
+      <module name="mybatisplus3" options="-parameters" />
+      <module name="mybatisplus_01" options="-parameters" />
+      <module name="mybatisplus_1" options="-parameters" />
+      <module name="mybatisplus_2" options="-parameters" />
+      <module name="reggie" options="-parameters" />
+      <module name="springboot_01" options="-parameters" />
+    </option>
+  </component>
+</project>

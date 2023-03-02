@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot_1/boot_1.iml" filepath="$PROJECT_DIR$/boot_1/boot_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_2/boot_2.iml" filepath="$PROJECT_DIR$/boot_2/boot_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_4/boot_4.iml" filepath="$PROJECT_DIR$/boot_4/boot_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_5/boot_5.iml" filepath="$PROJECT_DIR$/boot_5/boot_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_6/boot_6.iml" filepath="$PROJECT_DIR$/boot_6/boot_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootlnstall/bootlnstall.iml" filepath="$PROJECT_DIR$/bootlnstall/bootlnstall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus3/mybatisplus3.iml" filepath="$PROJECT_DIR$/mybatisplus3/mybatisplus3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus_01/mybatisplus_01.iml" filepath="$PROJECT_DIR$/mybatisplus_01/mybatisplus_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus_1/mybatisplus_1.iml" filepath="$PROJECT_DIR$/mybatisplus_1/mybatisplus_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus_2/mybatisplus_2.iml" filepath="$PROJECT_DIR$/mybatisplus_2/mybatisplus_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reggie/reggie.iml" filepath="$PROJECT_DIR$/reggie/reggie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/123/springboot_01.iml" filepath="$PROJECT_DIR$/123/springboot_01.iml" />
+    </modules>
+  </component>
+</project>
